@@ -1,4 +1,4 @@
-# Climate report A3 (EPW → PDF / PPTX / SVG)
+# Climate Analysis (EPW → PDF / PPTX / SVG)
 
 Genera las láminas A3 de análisis climático (formato IDOM) para cualquier archivo EPW del mundo.
 Los gráficos se calculan con **ladybug** y son deterministas: mismo EPW + mismos ajustes = mismo
